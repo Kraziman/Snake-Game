@@ -35,6 +35,10 @@ public class GamePanel extends JPanel implements ActionListener {
         running = true;
         timer = new Timer(DELAY, this);
         timer.start();
+
+        // Initialize the snake in the center of the screen
+        x[0] = SCREEN_WIDTH / 2;
+        y[0] = SCREEN_HEIGHT / 2;
     }
 
     public void paintComponent(Graphics g){
