@@ -20,7 +20,6 @@ A simple Snake game implemented in Java.
 ## Features
 
 - Classic Snake game mechanics in Java
-- [Add any additional features or functionalities]
 
 ## Technologies Used
 
