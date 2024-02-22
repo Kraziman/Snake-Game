@@ -27,6 +27,8 @@ A simple Snake game implemented in Java.
 
 ## How to Download
 
+Before you proceed, ensure that you have Java installed on your machine. You can download Java [here](https://www.java.com/).
+
 If you have Git installed:
 
   Open Git Bash and type the following:
