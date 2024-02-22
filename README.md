@@ -26,7 +26,9 @@ A simple Snake game implemented in Java.
 
 ## How to Download
 
-Before you proceed, ensure that you have JDK 17 installed on your machine. You can download JDK 17 [here]([https://www.java.com/](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)).
+Before you proceed, ensure that you have JDK 17 installed on your machine. You can download JDK 17 [here](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) or [click here](https://download.oracle.com/java/17/archive/jdk-17.0.10_windows-x64_bin.exe) to directly begin downloading the JDK 17 installer.
+
+**NOTE: You can simply download the .exe file from the [Latest Release](https://github.com/Kraziman/Snake-Game/releases/) and run the game(JDK 17 REQUIRED), or do the following:**
 
 If you have Git installed:
 
@@ -46,6 +48,8 @@ If you don't have Git installed:
 ## How to Play
 
 ### Running the Game
+
+**If you've downlaoded the .exe file you can simply double click the .exe file and start playing the game.**
 
 #### Step 1: Navigate to the Game Directory
 
