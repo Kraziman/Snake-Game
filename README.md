@@ -26,7 +26,7 @@ A simple Snake game implemented in Java.
 
 ## How to Download
 
-Before you proceed, ensure that you have Java installed on your machine. You can download Java [here](https://www.java.com/).
+Before you proceed, ensure that you have JDK 17 installed on your machine. You can download JDK 17 [here]([https://www.java.com/](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)).
 
 If you have Git installed:
 
