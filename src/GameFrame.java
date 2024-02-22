@@ -1,12 +1,13 @@
 import javax.swing.*;
+import java.net.URL;
 
 public class GameFrame extends JFrame {
+    URL iconURL = getClass().getResource("resources/icon.png");
 
     GameFrame(){
         this.add(new GamePanel());
         this.setTitle("Snake");
-        //TODO: Fix the Icon not showing when game is ran through cmd
-        this.setIconImage(new ImageIcon("Icon/Icon.png").getImage());
+        this.setIconImage(new ImageIcon(iconURL).getImage());
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setResizable(false);
         this.pack();
