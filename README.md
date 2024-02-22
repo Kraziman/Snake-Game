@@ -22,7 +22,7 @@ A simple Snake game implemented in Java.
 
 ## Technologies Used
 
-- [Java](https://www.java.com/) installed on your machine.
+- [Java](https://www.java.com/)
 
 ## How to Download
 
