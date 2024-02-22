@@ -22,7 +22,8 @@ A simple Snake game implemented in Java.
 
 ## Technologies Used
 
-- [Java](https://www.java.com/)
+- [Java](https://www.oracle.com/java/)
+- [Swing Library](https://docs.oracle.com/javase/8/docs/technotes/guides/swing/)
 
 ## How to Download
 
