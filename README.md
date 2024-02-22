@@ -2,8 +2,7 @@
 
 A simple Snake game implemented in Java.
 
-![image](https://github.com/Kraziman/Snake-Game/assets/70752688/05790d8f-38dc-4c5c-b3b0-e3778a07dd11)
-
+![image](https://github.com/Kraziman/Snake-Game/assets/70752688/e8aac093-8442-4cc0-838e-b950e4ed1efd)
 
 
 ## Table of Contents
